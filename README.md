@@ -9,6 +9,11 @@ I'm a Software Engineer.
 - 🔭 I’m currently working on Itau Unibanco.
 - 🌱 I’m currently learning more about Apache Kafka and Architecture.
 
+### Contents reated by me
+- [Architecture](https://gist.github.com/diegogborges/8aebefce85a6eeb752ea5d93d42051a8) WIP
+- [RabbitMq](https://gist.github.com/diegogborges/4d0261e2098a9cda4c2e8b42df63a227)
+
+
 ### I get on very well with:
 
 #### > Languages
