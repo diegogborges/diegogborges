@@ -54,7 +54,16 @@ apigee, Kong
 
 <h2>Cloud:</h2>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e26a974-bdda-4237-8567-fb643ff1cf97" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<h2>Certifications:</h2>
+
+<div data-iframe-width="150" 
+     data-iframe-height="270" 
+     data-share-badge-id="5e26a974-bdda-4237-8567-fb643ff1cf97" 
+     data-share-badge-host="https://www.credly.com">
+</div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 
 <h2>Methodologies & Best Practices:</h2>
