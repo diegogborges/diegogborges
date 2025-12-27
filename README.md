@@ -39,12 +39,10 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+SQS
 
 <h2>Application & Web Servers:</h2>
-<img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/6/68/GlassFish_logo.svg"/>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
-<img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/JBoss_logo.svg"/>
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/> GlassFish, JBoss
 
 <h2>DevOps & CI/CD:</h2>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -52,11 +50,11 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 
 <h2>API Management:</h2>
-<img height="50em" src="https://seeklogo.com/images/A/apigee-logo-14F0B1AFAF-seeklogo.com.png"/>
-<img height="50em" src="https://seeklogo.com/images/K/kong-logo-9A94B12E0F-seeklogo.com.png"/>
+apigee, Kong
 
 <h2>Cloud:</h2>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e26a974-bdda-4237-8567-fb643ff1cf97" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 
 <h2>Methodologies & Best Practices:</h2>
