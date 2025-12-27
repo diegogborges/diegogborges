@@ -71,13 +71,15 @@ apigee, Kong
 
 <h2>Certifications:</h2>
 
-<div data-iframe-width="150" 
-     data-iframe-height="270" 
-     data-share-badge-id="5e26a974-bdda-4237-8567-fb643ff1cf97" 
-     data-share-badge-host="https://www.credly.com">
-</div>
+<a href="https://www.credly.com/badges/243c5354-576b-4148-9a03-5148a698c4a5/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+</a>
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/5e26a974-bdda-4237-8567-fb643ff1cf97/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+</a>
+
+
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 
 <h2>Methodologies & Best Practices:</h2>
@@ -93,40 +95,3 @@ apigee, Kong
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
 </div>
-
-
-
-
-### I get on very well with:
-
-#### > Languages
-- Java
-- Python
-
-#### > Frameworks
-- Spring Boot
-- Django
-- Flask
-
-#### > Message Broker
-- RabbitMq
-- Apache Kafka
-
-#### > Cloud
-- AWS
-- GCP
-
-<!--
-**diegogborges/diegogborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
