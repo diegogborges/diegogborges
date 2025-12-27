@@ -1,8 +1,4 @@
 ## Welcome to my profile! I'm Diego G. Borge ☕💻😉
-#### 🛠️ Technologies, tools, and stacks I have hands-on experience with.
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegogborges)](https://github.com/diegogborges)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
 
 ### About me
 I'm a Software Engineer.
@@ -10,21 +6,22 @@ I'm a Software Engineer.
 - 🔭 I’m currently working on Itau Unibanco.
 - 🌱 I’m currently learning more about Apache Kafka and Architecture.
 
-### Contents reated by me
+
+### My site with contents reated by me
 <a href="https://diegogborges.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-
 ##
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/" target="_blank">
+<a href="https://www.linkedin.com/in/diegogborges/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:diegogb2013@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
 
+#### 🛠️ Technologies, tools, and stacks I have hands-on experience with.
 
 <div>
 
