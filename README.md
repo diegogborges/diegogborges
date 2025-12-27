@@ -1,5 +1,20 @@
-## Welcome to my profile! ☕💻😉
+## Welcome to my profile! I'm Diego G. Borge ☕💻😉
 #### 🛠️ Technologies, tools, and stacks I have hands-on experience with.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegogborges)](https://github.com/diegogborges)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+
+### About me
+I'm a Software Engineer.
+
+- 🔭 I’m currently working on Itau Unibanco.
+- 🌱 I’m currently learning more about Apache Kafka and Architecture.
+
+### Contents reated by me
+<a href="https://diegogborges.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 
 ##
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/" target="_blank">
@@ -8,6 +23,8 @@
 <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
+
+
 
 <div>
 
@@ -80,20 +97,7 @@ apigee, Kong
 
 </div>
 
-## Hi, I'm Diego G. Borges ! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegogborges)](https://github.com/diegogborges)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
-
-### About me
-I'm a Software Engineer.
-
-- 🔭 I’m currently working on Itau Unibanco.
-- 🌱 I’m currently learning more about Apache Kafka and Architecture.
-
-### Contents reated by me
-- [Architecture](https://gist.github.com/diegogborges/8aebefce85a6eeb752ea5d93d42051a8) WIP
-- [RabbitMq](https://gist.github.com/diegogborges/4d0261e2098a9cda4c2e8b42df63a227)
 
 
 ### I get on very well with:
